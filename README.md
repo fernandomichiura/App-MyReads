@@ -9,12 +9,12 @@ Basicamente, este projeto possui duas dependências necessárias para o seu func
 
 > Instalacão do NPM
 ```shell
-* $ npm install
+$ npm install
 ```
 
 > Instalacão do React Router
 ```shell
-* $ npm install --save react-router-dom
+$ npm install --save react-router-dom
 ```
 
 ### Inicializar o serviço de desenvolvimento:
