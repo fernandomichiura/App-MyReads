@@ -29,6 +29,10 @@ O aplicativo utiliza a API "BooksAPI", contendo funções para gerenciamento e m
 ## Termos de Busca
 
 A BooksAPI determina uma série fixa de `termos` que podem ser utilizados para realizar as buscas, e uma série fixa de resultados. 
-Todos os termos podem ser encontrados na documentação da BooksAPI, [`aqui`](https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md).
+Todos os termos podem ser encontrados no arquivo disponível neste projeto, [`aqui`](/SEARCH_TERMS.md).
 Considerando o limite de termos que podem ser pesquisados, é possível que termos informados não identificados na documentação tragam zero resultados.
 
+
+## Clone
+
+É possível clonar este projeto por meio deste link `https://github.com/fernandomichiura/App-MyReads`
