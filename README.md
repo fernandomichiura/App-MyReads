@@ -32,4 +32,3 @@ A BooksAPI determina uma série fixa de `termos` que podem ser utilizados para r
 Todos os termos podem ser encontrados na documentação da BooksAPI, [`aqui`](https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md).
 Considerando o limite de termos que podem ser pesquisados, é possível que termos informados não identificados na documentação tragam zero resultados.
 
-
